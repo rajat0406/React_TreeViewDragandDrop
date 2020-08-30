@@ -1,0 +1,23 @@
+.layout_header {
+    height:10px;
+}
+
+.head_title{
+/* background: url('/create_board_demo/public/assets/back.png'); */
+background: cadetblue;
+overflow: hidden;
+position: relative;
+height: auto;
+margin: 0;
+border-bottom: none;
+color: #fff;
+padding: 10px !important;
+border-radius: 0;
+}
+
+.logo{
+padding: 0px 0;
+display: block;
+height: 50px;
+float: left;
+}
